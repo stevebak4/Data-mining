@@ -1,9 +1,8 @@
-#Data-mining
+# Data-mining
 
 
-Hw1
 
-Data Mining and Recommendation Systems: Exploring Netflix and IMDb Movie Trends.
+## Hw1: Data Mining and Recommendation Systems: Exploring Netflix and IMDb Movie Trends.
 
     This project explores Netflix and IMDb data to analyze content trends and build a movie recommendation system. 
     Visualizations show patterns in movie vs. TV show releases, country of origin, and genre popularity. 
@@ -11,9 +10,9 @@ Data Mining and Recommendation Systems: Exploring Netflix and IMDb Movie Trends.
     to suggest similar movies based on their descriptions.
 
 
-Hw2
 
-Title: Text Classification and Feature Extraction in News Articles Using Machine Learning and NLP Techniques
+
+## Hw2: Title: Text Classification and Feature Extraction in News Articles Using Machine Learning and NLP Techniques
 
     This project explores the classification of news articles into "True" and "Fake" categories using 
     various machine learning algorithms and Natural Language Processing (NLP) techniques. A dataset 
